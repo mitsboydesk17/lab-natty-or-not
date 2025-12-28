@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/SEU-USUARIO/lab-natty-or-not)
+![GitHub repo size](https://img.shields.io/github/repo-size/SEU-USUARIO/lab-natty-or-not)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 # Como Vencer na Era das IAs Generativas 🤨
 
 # Natural ou Fake Natty?
